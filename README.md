@@ -1,3 +1,5 @@
+## CONTENTS OF THIS REPOSITORY
+
 Script files:
 - smooth-f0.praat 
 - extractF0-durationnorm.praat
@@ -14,3 +16,12 @@ Example data files for illustration purposes:
   - raw .Rawpitch
   - handcorrected .Pitch
   - smoothed and interpolated .Smooth files
+  
+  
+## STEP-BY-STEP GUIDE 
+0. Have folder with pitchfiles (.Smooth) and textgrid files ready (.TextGrid)
+1. Run extractF0-durationnorm.praat (user will be prompted to enter relevant folder)
+2. Run plot_contours.R
+
+## OPTIONAL:
+- run smooth-f0.praat on any original .Pitch files if needed
