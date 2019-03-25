@@ -5,11 +5,11 @@ Script files:
 - extractF0-durationnorm.praat
 - plot_contours.R
 
-Example output data files of scripts: 
+Example output files of scripts: 
 - syllcontour.txt
 - phrasecontour.txt
 
-Example data files for illustration purposes:
+Example original data files:
 - full set of 5 original sound+auxiliary files: 
   - .wav
   - .Textgrid
