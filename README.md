@@ -1,5 +1,3 @@
-This repository contains scripts + data for quick visualisation of all pitch contours in a given folder
-
 Script files:
 - smooth-f0.praat 
 - extractF0-durationnorm.praat
