@@ -9,7 +9,7 @@ Example output files of scripts:
 - syllcontour.txt
 - phrasecontour.txt
 
-Example original data files:
+Example original data files (folder example-data):
 - full set of 5 original sound+auxiliary files: 
   - .wav
   - .Textgrid
