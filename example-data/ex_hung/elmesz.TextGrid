@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.9029705215419501 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 0.9029705215419501 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09747740550120047 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09747740550120047 
+            xmax = 0.2978336677571341 
+            text = "el" 
+        intervals [3]:
+            xmin = 0.2978336677571341 
+            xmax = 0.8041393575119935 
+            text = "mesz" 
+        intervals [4]:
+            xmin = 0.8041393575119935 
+            xmax = 0.9029705215419501 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 0.9029705215419501 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09747740550120047 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09747740550120047 
+            xmax = 0.8041393575119935 
+            text = "elmesz" 
+        intervals [3]:
+            xmin = 0.8041393575119935 
+            xmax = 0.9029705215419501 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phrase" 
+        xmin = 0 
+        xmax = 0.9029705215419501 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09747740550120047 
+            text = "" 
+        intervals [2]:
+            xmin = 0.09747740550120047 
+            xmax = 0.8041393575119935 
+            text = "elmesz" 
+        intervals [3]:
+            xmin = 0.8041393575119935 
+            xmax = 0.9029705215419501 
+            text = "" 

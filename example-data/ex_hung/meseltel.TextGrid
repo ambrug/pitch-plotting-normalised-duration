@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.4886848072562358 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 2.4886848072562358 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08210303901673924 
+            text = "" 
+        intervals [2]:
+            xmin = 0.08210303901673924 
+            xmax = 0.2537338922177775 
+            text = "el" 
+        intervals [3]:
+            xmin = 0.2537338922177775 
+            xmax = 0.5037179610105941 
+            text = "mesz" 
+        intervals [4]:
+            xmin = 0.5037179610105941 
+            xmax = 0.6007267041242244 
+            text = "az" 
+        intervals [5]:
+            xmin = 0.6007267041242244 
+            xmax = 0.7835508738383739 
+            text = "or" 
+        intervals [6]:
+            xmin = 0.7835508738383739 
+            xmax = 0.9962238875874865 
+            text = "vos" 
+        intervals [7]:
+            xmin = 0.9962238875874865 
+            xmax = 1.1454681077623023 
+            text = "hoz" 
+        intervals [8]:
+            xmin = 1.1454681077623023 
+            xmax = 1.2126280068409694 
+            text = "a" 
+        intervals [9]:
+            xmin = 1.2126280068409694 
+            xmax = 1.3133678554589703 
+            text = "ki" 
+        intervals [10]:
+            xmin = 1.3133678554589703 
+            xmax = 1.4698106494919243 
+            text = "rol" 
+        intervals [11]:
+            xmin = 1.4698106494919243 
+            xmax = 1.5474970269772537 
+            text = "an" 
+        intervals [12]:
+            xmin = 1.5474970269772537 
+            xmax = 1.6305118233304539 
+            text = "yit" 
+        intervals [13]:
+            xmin = 1.6305118233304539 
+            xmax = 1.9290002636800858 
+            text = "mes" 
+        intervals [14]:
+            xmin = 1.9290002636800858 
+            xmax = 2.0857066948636427 
+            text = "el" 
+        intervals [15]:
+            xmin = 2.0857066948636427 
+            xmax = 2.361808502187052 
+            text = "tel" 
+        intervals [16]:
+            xmin = 2.361808502187052 
+            xmax = 2.4886848072562358 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 2.4886848072562358 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08210303901673924 
+            text = "" 
+        intervals [2]:
+            xmin = 0.08210303901673924 
+            xmax = 0.5037179610105941 
+            text = "elmesz" 
+        intervals [3]:
+            xmin = 0.5037179610105941 
+            xmax = 0.6007267041242244 
+            text = "az" 
+        intervals [4]:
+            xmin = 0.6007267041242244 
+            xmax = 1.1454681077623023 
+            text = "orvoshoz" 
+        intervals [5]:
+            xmin = 1.1454681077623023 
+            xmax = 1.4698106494919243 
+            text = "akirol" 
+        intervals [6]:
+            xmin = 1.4698106494919243 
+            xmax = 1.6305118233304539 
+            text = "annyit" 
+        intervals [7]:
+            xmin = 1.6305118233304539 
+            xmax = 2.361808502187052 
+            text = "meseltel" 
+        intervals [8]:
+            xmin = 2.361808502187052 
+            xmax = 2.4886848072562358 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phrase" 
+        xmin = 0 
+        xmax = 2.4886848072562358 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08210303901673924 
+            text = "" 
+        intervals [2]:
+            xmin = 0.08210303901673924 
+            xmax = 2.361808502187052 
+            text = "phrase" 
+        intervals [3]:
+            xmin = 2.361808502187052 
+            xmax = 2.4886848072562358 
+            text = "" 
